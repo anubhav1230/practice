@@ -1,0 +1,5 @@
+127.0.0.1 - - [09/Mar/2018:11:36:03 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:11:36:04 +0530] "GET /spring-web-customer-tracker/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:11:36:06 +0530] "GET /spring-web-customer-tracker/customer/list HTTP/1.1" 200 6199
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:11:36:06 +0530] "GET /spring-web-customer-tracker/resources/css/style.css HTTP/1.1" 200 1049
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:11:36:50 +0530] "POST /spring-web-customer-tracker/customer/search HTTP/1.1" 200 1804
